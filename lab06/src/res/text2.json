@@ -1,0 +1,14 @@
+{
+    "data":[
+        {
+            "id": 1,
+            "img": "img1",
+            "text":"Model GeForce RTX 3090 to duży dziki GPU (BFGPU) o wydajności klasy TITAN. Zasilany jest przez architekturę RTX NVIDIA 2. generacji – podwojenie na śledzeniu promieni i wydajności sztucznej inteligencji dzięki ulepszonym rdzeniom Ray Tracing (RT), rdzeniom Tensor i nowym multiprocesorom strumieniowym. Ponadto posiada oszałamiającą 24 GB pamięci G6X, wszystko zapewnia najlepsze wrażenia z gry." 
+        },
+        {
+            "id": 2,
+            "img": "img2",
+            "text": "Karty graficzne GeForce RTX™ 3080 Ti oraz RTX 3080 zapewniają ultrawydajność, jakiej pragną gracze, napędzaną architekturą Ampere – drugą generacją układów RTX NVIDIA. Zbudowano je w oparciu o udoskonalone rdzenie RT i rdzenie Tensor, nowe multiprocesory strumieniowe i superszybką pamięć G6X, zapewniając niesamowity komfort gamingu."
+        }
+    ]
+}

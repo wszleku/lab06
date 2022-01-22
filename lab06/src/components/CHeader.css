@@ -1,5 +1,19 @@
+.headerContainer {
+  display: flex;
+}
+
+.headerLogo {
+  height: 100px;
+  pointer-events: none;
+}
+
+.headerContainer h2 {
+  flex-grow: 1;
+}
+
 .App {
   text-align: center;
+  background-color: honeydew;
 }
 
 .App-logo {
@@ -8,7 +22,7 @@
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
+  .headerLogo{
     animation: App-logo-spin infinite 20s linear;
   }
 }

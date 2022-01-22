@@ -21,3 +21,16 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# added
+/public
+/src/App.css
+/src/App.test.js
+/src/index.css
+/src/index.js
+/src/logo.svg
+/src/reportWebVitals.js
+/src/setupTests.js
+package-lock.json
+package.json
+README.md

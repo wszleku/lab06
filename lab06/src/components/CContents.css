@@ -1,0 +1,15 @@
+.contentsFlexImg{
+    height: 200px;
+}
+.contentsFlex{
+    margin: auto;
+    width: 80%;
+    display: flex;
+    padding: 50px;
+}
+.contentsDivClass{
+    background-color: rgb(125, 41, 136);
+}
+.contentsFlexTxt{
+    margin-left: 1vw;
+}
